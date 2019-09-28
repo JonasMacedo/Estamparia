@@ -1,5 +1,7 @@
 import React from 'react';
 
+import {MdSearch} from 'react-icons/md';
+
 import { Container } from './style';
 
 export default function Header() {
@@ -10,7 +12,7 @@ export default function Header() {
       </h1>
       <form>
         <input type="text" placeholder="Buscar por..."></input>
-        <button>Buscar</button>
+        <button> <MdSearch/> </button>
       </form>
       
     </Container>

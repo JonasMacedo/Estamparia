@@ -24,5 +24,17 @@ export const Container = styled.header`
         padding: 15px 10px; 
         border-radius: 9px 0 0 9px; 
     }
+    
+    button{
+        width: 15%;
+        height: 100%;
+        float: right;
+        padding: 10px 5px;
+        border-radius: 0 9px 9px 0;
+        background-color: #0cae98;
+        color: black;
+        cursor: pointer;
+        font-size: 21px;
+    }
 
 `;
