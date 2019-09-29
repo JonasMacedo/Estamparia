@@ -4,6 +4,7 @@ import {MdSearch} from 'react-icons/md';
 
 import MenuNave from '../NaveMenu/index';
 import Conteudo from '../Main/index';
+import Footer from '../Footer/index';
 
 import { Container } from './style';
 
@@ -21,6 +22,7 @@ export default function Header() {
       </Container>
       <MenuNave/>
       <Conteudo/>
+      <Footer/>
     </>
   );
 }
