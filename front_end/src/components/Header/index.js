@@ -14,7 +14,7 @@ export default function Header() {
     <>
       <Container>
         <h1>
-          <a href="#" title="Logo">EstampasBrasil - Loja de Estamparias</a>
+          <a title="Logo">EstampasBrasil - Loja de Estamparias</a>
         </h1>
         <form>
           <input type="text" placeholder="Buscar por..."></input>

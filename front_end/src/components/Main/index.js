@@ -7,7 +7,7 @@ export default function Main() {
     <Container>
       <article>
         <h2>Testo</h2>
-        <img href="#" alt="loja"/>
+        <img alt="loja"/>
         <p>
           Ao contrário da crença popular, o Lorem Ipsum não é simplesmente texto aleatório. 
           Tem raízes numa peça de literatura clássica em Latim, de 45 AC, tornando-o com 
